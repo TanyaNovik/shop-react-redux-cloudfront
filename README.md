@@ -1,5 +1,8 @@
 # React-shop-cloudfront
 
+cloudfront manual distribution:
+https://d1yw51br8lr7fn.cloudfront.net/
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
