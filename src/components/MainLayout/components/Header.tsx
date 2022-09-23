@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            My Store!
+            My vegetable Store!
           </Link>
         </Typography>
 
